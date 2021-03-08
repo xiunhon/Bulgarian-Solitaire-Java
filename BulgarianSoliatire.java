@@ -1,6 +1,6 @@
 import java.util.*;
 
-/**@author
+/**@author XiuNhon
  * due date: 2021
  * 
  * Bulgarian Solitaire model using ArrayList
