@@ -1,5 +1,5 @@
-# CECS277 
-Java Projects from CECS 277 (CSULB - 2021)
+# Bulgarian Solitaire
+Java Projects
 1/ Project ArrayList - Bulgarian Solitaire
 Assignment
 
